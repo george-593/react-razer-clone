@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f816e619.css",
+    "main.js": "/static/js/main.4adb513e.js",
+    "static/media/razercon2022.jpeg": "/static/media/razercon2022.01e85895628dff2be543.jpeg",
+    "static/media/razerstore-rewards.jpeg": "/static/media/razerstore-rewards.bff55322ca6bc0071c8f.jpeg",
+    "static/media/razer-enki-pro.jpeg": "/static/media/razer-enki-pro.ae98977f805c0ff9d91d.jpeg",
+    "static/media/prime-day-campaign.jpeg": "/static/media/prime-day-campaign.622006d02a38b95fe19c.jpeg",
+    "static/media/leviathanv2-x.jpeg": "/static/media/leviathanv2-x.dc6618918357398a0138.jpeg",
+    "static/media/razer-kaira-x.jpeg": "/static/media/razer-kaira-x.24be3fe5c3f0347b87c8.jpeg",
+    "static/media/xbox-stand.jpeg": "/static/media/xbox-stand.612c880a9a6e08ba98ec.jpeg",
+    "static/media/RazerF5-Bold.otf": "/static/media/RazerF5-Bold.b84db1222505888821e4.otf",
+    "static/media/razer-blade-15.jpeg": "/static/media/razer-blade-15.50c7c896cec2d847f520.jpeg",
+    "static/media/razer-blade.jpeg": "/static/media/razer-blade.069b4f0b01485239a78b.jpeg",
+    "static/media/razer-logo.svg": "/static/media/razer-logo.0d25071aa9e861bf55d7f240475a2ff1.svg",
+    "index.html": "/index.html",
+    "main.f816e619.css.map": "/static/css/main.f816e619.css.map",
+    "main.4adb513e.js.map": "/static/js/main.4adb513e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f816e619.css",
+    "static/js/main.4adb513e.js"
+  ]
+}
